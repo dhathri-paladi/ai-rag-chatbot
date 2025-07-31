@@ -122,4 +122,21 @@ You can easily switch to OpenAI or other providers by updating the `llm_response
 ## 🎥 Demo Video  
 [Click here to watch the demo video](https://drive.google.com/file/d/16upra9j1sT13jJVnLWaAgYHPvI0H1AI3/view?usp=sharing)
 
+---
+
+## Challenges Faced
+
+- Managing multi-format document parsing smoothly
+- Handling message passing logic among agents
+- Streamlit UI and backend coordination
+- Git setup and pushing with version control conflicts
+
+## Future Improvements
+
+- Integrate actual LLM like OpenAI GPT via API
+- UI enhancement with chatbot-style experience
+- Add document upload history and query logs
+- Improve retrieval using hybrid or semantic search
+
+
       
