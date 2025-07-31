@@ -126,17 +126,16 @@ You can easily switch to OpenAI or other providers by updating the `llm_response
 
 ## Challenges Faced
 
-- Managing multi-format document parsing smoothly
-- Handling message passing logic among agents
-- Streamlit UI and backend coordination
-- Git setup and pushing with version control conflicts
+- Parsing multiple document formats consistently
+- Handling smooth message passing between agents
+- Aligning the Streamlit UI with backend logic
+- Managing Git version control and push issues
 
 ## Future Improvements
 
-- Integrate actual LLM like OpenAI GPT via API
-- UI enhancement with chatbot-style experience
-- Add document upload history and query logs
-- Improve retrieval using hybrid or semantic search
-
+- Integrate real LLM (e.g., OpenAI GPT or Claude) instead of mock responses
+- Add upload history & query logging
+- Improve document retrieval using hybrid or semantic search methods
+- Add voice input/output and chat history persistence
 
       
