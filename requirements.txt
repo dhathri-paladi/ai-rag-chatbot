@@ -1,0 +1,6 @@
+sentence-transformers
+PyMuPDF
+python-docx
+python-pptx
+pandas
+torch
